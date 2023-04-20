@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**Danyel2608/Danyel2608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="header">
+  <img src="https://png.pngtree.com/background/20210709/original/pngtree-mobile-desktop-computer-picture-image_328529.jpg"/>
+  <h1 align="center">Daniel Salcedo Vivancos<h1>
+  <h2> In Continuous Learning Process</h2>
+  <p> I consider myself a discover of new facets, a lover of sports and life.<strong> I have no limits but many goals<strong><p>
+  </div>
+<div id="body">
+<h3>About me⚡</h3>
+    
+- 🌱 I’m currently learning in <a>https://codespaceacademy.com></a>
+- 📫 How to reach me:  <a>https://www.linkedin.com/in/daniel-salcedo-vivancos-87855918b </a>
+  </div>
